@@ -1,3 +1,5 @@
+Fixed a typo in README.md
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
